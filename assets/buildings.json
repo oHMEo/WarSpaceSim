@@ -1,0 +1,613 @@
+{
+  "Gold_mine": {
+    "Common": {
+      "1": {
+        "asset_id": 402159,
+        "img": "QmZQ4dN4Pbi1n8X6RBHMtko3hXfPs2fhWMGryWmcfsEtvn",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": 4,
+        "Food": -1
+      },
+      "2": {
+        "asset_id": 402160,
+        "img": "QmUS9FLuxpMMztZParc7NMrFx3gtgQ6fDzFC2HVPSthMnb",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": 12,
+        "Food": -3
+      },
+      "3": {
+        "asset_id": 402161,
+        "img": "QmcwXvFUy1QVQ7Qvb7BnNSYkQnnwC2RAKLyEhEjvqbQBCp",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": 36,
+        "Food": -9
+      },
+      "4": {
+        "asset_id": 402162,
+        "img": "QmfXXLrVUDGNFatoaZvJfBFrV2JqZrM18jozWnGzTeiLn9",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": 108,
+        "Food": -27
+      },
+      "5": {
+        "asset_id": 402163,
+        "img": "QmbtW9yCrwihbPiUh24VNoUgXPRRPnfk1mmahYsRPYMt8g",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": 324,
+        "Food": -81
+      },
+      "6": {
+        "asset_id": 402163,
+        "img": "QmPzYhmktHGAG8V5mAakKK9EmcGuY7GDWw6fQJN5mtGL1R",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": 972,
+        "Food": -243
+      }
+    },
+    "Rare": {
+      "1": {
+        "asset_id": 402168,
+        "img": "Qmd1pDvVNtysCLZvJqj2SkM4fJNHLjh638ydw2kqCAYTUp",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": 10,
+        "Food": -1
+      },
+      "2": {
+        "asset_id": 402170,
+        "img": "QmYU1pLisXBXg7uC7SUrdtSmdaYif6NCfvtLdbpaTPiK3Y",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": 30,
+        "Food": -3
+      },
+      "3": {
+        "asset_id": 402171,
+        "img": "QmbV8U6VtVWd1xE3g3PUAF1WP7oxwSKmBsLGNij3mfdqCt",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": 90,
+        "Food": -9
+      },
+      "4": {
+        "asset_id": 402172,
+        "img": "QmaHiLunKZQGr9AaArLqWwvZ7fp8fZdyPvwtsQ57LSd45v",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": 270,
+        "Food": -27
+      },
+      "5": {
+        "asset_id": 402174,
+        "img": "QmPgyij4nLvN8p2af329xU6BjFvdgurC8ubEWMLdV2zuLN",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": 810,
+        "Food": -81
+      },
+      "6": {
+        "asset_id": 402175,
+        "img": "QmYBZZoD5WVR8ijczweQMrGDfhraKKpuP4dsAGbxXcYZT8",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": 2430,
+        "Food": -243
+      }
+    },
+    "Epic": {
+      "1": {
+        "asset_id": 408997,
+        "img": "QmfVc6aWtXbGH1zxPN9NUmRXXSX3sFU4TnefXEyq6Z5Wub",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": 15,
+        "Food": 0
+      },
+      "2": {
+        "asset_id": 408998,
+        "img": "QmbbrhjPGV3WghvdeYRV1AYhj1N7CuVrYi3JJkd5gL3fgr",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": 45,
+        "Food": 0
+      },
+      "3": {
+        "asset_id": 409003,
+        "img": "QmQmdWuo6wiGtBtHi4tT1NxRm3XJQXVbni6h4MTQq8Krbm",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": 135,
+        "Food": 0
+      },
+      "4": {
+        "asset_id": 409010,
+        "img": "QmUvkKwRDvmYayMc2dZ7aAFDXn7W9agDya4DnS7bodFCLS",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": 405,
+        "Food": 0
+      },
+      "5": {
+        "asset_id": 409011,
+        "img": "QmUn7EAo3d6EbbRbQyuiqKZUEsh3dpPY6Stq2v4HBbwFNQ",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": 1215,
+        "Food": 0
+      },
+      "6": {
+        "asset_id": 409013,
+        "img": "QmXwgpfumLmpuS5tJx99XaywTi8Nq9KVPmbXP9ds74FHTY",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": 3645,
+        "Food": 0
+      }
+    }
+  },
+
+  "Farm": {
+    "Common": {
+      "1": {
+        "asset_id": 402051,
+        "img": "QmSVVLQuDBiE8FXpA63PYfVdVX5Z7pTkgU9NcDwhawQzf7",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": -3,
+        "Food": 3
+      },
+      "2": {
+        "asset_id": 402055,
+        "img": "QmNxcqvLTV7DPonSvwH7iYWK2yZdXtQrwii1e1CMAyXkMj",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": -9,
+        "Food": 9
+      },
+      "3": {
+        "asset_id": 402066,
+        "img": "QmP4WZbema6B2rmqoGR6211rhRQDhetJ7qfN9ZgGMPoafC/farm_common_lvl_03-1.png",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": -27,
+        "Food": 27
+      },
+      "4": {
+        "asset_id": 402070,
+        "img": "QmXi2h8ckiKFXasRzNuwHkQU2EKLNM6cQCSx1ZTvrgytaW",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": -81,
+        "Food": 81
+      },
+      "5": {
+        "asset_id": 402071,
+        "img": "QmXL1KXpMDXduj6qwFUY99dPNmHg82EzvyBUYRdxYmgx5o",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": -243,
+        "Food": 243
+      },
+      "6": {
+        "asset_id": 402072,
+        "img": "QmfTroVTUKbmYmPXb7zKcjyTZAAHBiic9TApn8AZfYD2Cc",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": -729,
+        "Food": 729
+      }
+    },
+    "Rare": {
+      "1": {
+        "asset_id": 402076,
+        "img": "QmR45AqDJBB4dYgoJkC6tujjSVtHksWBFRMK3p8zY4kxRe",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": -1,
+        "Food": 3
+      },
+      "2": {
+        "asset_id": 402078,
+        "img": "QmUwVB8yohETKTjisAGWenoTxUf8uqgzYBF1k3FvnmDPBL",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": -3,
+        "Food": 9
+      },
+      "3": {
+        "asset_id": 402080,
+        "img": "QmeWBJyrB9KUDGFQ8iesdgKnsFji2hYNM2yT7p2Ve9WXoT",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": -9,
+        "Food": 27
+      },
+      "4": {
+        "asset_id": 402081,
+        "img": "QmNtDxSymBrq2uMiGR8Ps5ndvqYwGvincBqyYZW5YJnzNt",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": -27,
+        "Food": 81
+      },
+      "5": {
+        "asset_id": 402083,
+        "img": "QmY3TLYBH9NFr5EtRdKsJ4Ev5SPmYkpWcRxX4WgHLHa6c4",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": -81,
+        "Food": 243
+      },
+      "6": {
+        "asset_id": 402084,
+        "img": "QmZq62pxpz5vkTtjTZHtftdQQ1AusQ769enQRYhaZRrVkU",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": -243,
+        "Food": 729
+      }
+    },
+    "Epic": {
+      "1": {
+        "asset_id": 408976,
+        "img": "QmYe2GB9JZegxEBh2T51Gb4bBQxwaWMGo9bAwHvfdwMFRo",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": 0,
+        "Food": 4
+      },
+      "2": {
+        "asset_id": 408977,
+        "img": "QmbTtXAYztMYbo7Dgv2kcS86AuMCEgJnXSomYFmaB6fnFx",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": 0,
+        "Food": 12
+      },
+      "3": {
+        "asset_id": 408978,
+        "img": "QmRUCwCKHna4FrbifnpXL5SGw7obdyhL4s6Dvn23GTAdwH",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": 0,
+        "Food": 36
+      },
+      "4": {
+        "asset_id": 408979,
+        "img": "QmTvrMRrKfgd1d9Uddy47dVdtXknMqTA7CFuDuGahUK3eV",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": 0,
+        "Food": 108
+      },
+      "5": {
+        "asset_id": 408980,
+        "img": "QmXzy1kU9rgxpaSx1UX6AQdNgijYPTsp4fk2tdcJAvo4MQ",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": 0,
+        "Food": 324
+      },
+      "6": {
+        "asset_id": 408981,
+        "img": "QmSpDLeHfnPPTQC4JmYMsGTNdh7cN4v6sRfSj9QDChbvGU",
+        "Stone": 0,
+        "Wood": 0,
+        "Gold": 0,
+        "Food": 972
+      }
+    }
+  },
+
+  "Stone_quarry": {
+    "Common": {
+      "1": {
+        "asset_id": 402139,
+        "img": "QmXUqnSZobSP5CEktjvR8W5xZe3zpCEjUVgyeUKhYQSLdy",
+        "Stone": 10,
+        "Wood": 0,
+        "Gold": -2,
+        "Food": -1
+      },
+      "2": {
+        "asset_id": 402140,
+        "img": "QmP9QtjfUzy2i24vWMQcKuE3EB3gayM8JvEcQQnSrCMv2G",
+        "Stone": 30,
+        "Wood": 0,
+        "Gold": -6,
+        "Food": -3
+      },
+      "3": {
+        "asset_id": 402141,
+        "img": "QmX4WCHsjpV5DMPt2bnUPM94VQ3tS5F1e4N3e9gMr9fQW2",
+        "Stone": 90,
+        "Wood": 0,
+        "Gold": -18,
+        "Food": -9
+      },
+      "4": {
+        "asset_id": 402142,
+        "img": "QmT9NpBEav2qneyihEbynAYa3QoEiNoxyjph9qHTS8K12X",
+        "Stone": 270,
+        "Wood": 0,
+        "Gold": -54,
+        "Food": -27
+      },
+      "5": {
+        "asset_id": 402143,
+        "img": "QmXda6zSCCT2nY1tt58g1bNuHaMMykcYrRW1LMVuNC6d3b",
+        "Stone": 810,
+        "Wood": 0,
+        "Gold": -162,
+        "Food": -81
+      },
+      "6": {
+        "asset_id": 402144,
+        "img": "QmYwY8ayJpwSJ7kE9kgQeuWmf4hM1YRjGjwkmju2Z7Bj6M",
+        "Stone": 2430,
+        "Wood": 0,
+        "Gold": -486,
+        "Food": -243
+      }
+    },
+    "Rare": {
+      "1": {
+        "asset_id": 402145,
+        "img": "QmbiRj8coLHSsAvhBnJ9rCZkN2LnPZMEXFyYu5uy2pzgzM",
+        "Stone": 10,
+        "Wood": 0,
+        "Gold": -1,
+        "Food": -1
+      },
+      "2": {
+        "asset_id": 402146,
+        "img": "QmfEbQ9Wpc5wPUyYKY8zez7qPB99khdGpKo4G74BcGPG6M",
+        "Stone": 30,
+        "Wood": 0,
+        "Gold": -3,
+        "Food": -3
+      },
+      "3": {
+        "asset_id": 402147,
+        "img": "QmZBjz4isEPzZBRFJNcfrfbHpK9Z4kgpZDfAexWWy9KRww",
+        "Stone": 90,
+        "Wood": 0,
+        "Gold": -9,
+        "Food": -9
+      },
+      "4": {
+        "asset_id": 402148,
+        "img": "QmNqKe76UVQchqb8cYnedwhs38o3rHVrEzwcRh5k9fMnwn",
+        "Stone": 270,
+        "Wood": 0,
+        "Gold": -27,
+        "Food": -27
+      },
+      "5": {
+        "asset_id": 402149,
+        "img": "QmZjMYasWHZ2xH5AeamJ2VYTtPi4y3BsDq1yvYtE7fW7zG",
+        "Stone": 810,
+        "Wood": 0,
+        "Gold": -81,
+        "Food": -81
+      },
+      "6": {
+        "asset_id": 402150,
+        "img": "QmYxZHmzUxCgk8wBwaX5LEfWtbQ1eXrvY853UvcqkFM9U2",
+        "Stone": 2430,
+        "Wood": 0,
+        "Gold": -243,
+        "Food": -243
+      }
+    },
+    "Epic": {
+      "1": {
+        "asset_id": 408991,
+        "img": "QmVmSe2KdTWQck9z35LrhwAJoRBoVADrBVJpks8Dkbp8C4",
+        "Stone": 10,
+        "Wood": 0,
+        "Gold": 0,
+        "Food": 0
+      },
+      "2": {
+        "asset_id": 408992,
+        "img": "QmTbm3zRRAbhgTUMWCPmhRHbmUjCmRPgxbNGN2yH1SNHtE",
+        "Stone": 30,
+        "Wood": 0,
+        "Gold": 0,
+        "Food": 0
+      },
+      "3": {
+        "asset_id": 408993,
+        "img": "QmZeod9miwaYdDkQSDT5Q5bJafp5AMpWAbvceRZ5gCvDoE",
+        "Stone": 90,
+        "Wood": 0,
+        "Gold": 0,
+        "Food": 0
+      },
+      "4": {
+        "asset_id": 408994,
+        "img": "QmVGaVjXgSRpBJpY83zj47DbdsMQns4rJw9n2riq2nSd1P",
+        "Stone": 270,
+        "Wood": 0,
+        "Gold": 0,
+        "Food": 0
+      },
+      "5": {
+        "asset_id": 408995,
+        "img": "QmRSiCoo3TWAnWXVt3a1ZV419qHGLRm2HPNNnbDxNkdi7d",
+        "Stone": 810,
+        "Wood": 0,
+        "Gold": 0,
+        "Food": 0
+      },
+      "6": {
+        "asset_id": 408996,
+        "img": "QmXgLZTbrZedTLtrCnjkzuzZ219yrWB2TNqHaWSjKrQF7B",
+        "Stone": 2430,
+        "Wood": 0,
+        "Gold": 0,
+        "Food": 0
+      }
+    }
+  },
+
+  "Lumber_mill": {
+    "Common": {
+      "1": {
+        "asset_id": 402107,
+        "img": "QmNZ3Q7MkdHpCVGf5NuYxru6NHkUrhsEvxDZVbisvThBeA",
+        "Stone": 0,
+        "Wood": 20,
+        "Gold": -1,
+        "Food": -2
+      },
+      "2": {
+        "asset_id": 402111,
+        "img": "QmYtPq5kVQzc3FqyQRfK1fAu1XbCgR9Hx6Cy4chUFpkeCG",
+        "Stone": 0,
+        "Wood": 60,
+        "Gold": -3,
+        "Food": -6
+      },
+      "3": {
+        "asset_id": 402113,
+        "img": "QmZ3ooyd689ADPTrEoEHsgiRrYnhwQAZa5kHQ3n2QcSsUZ",
+        "Stone": 0,
+        "Wood": 180,
+        "Gold": -9,
+        "Food": -18
+      },
+      "4": {
+        "asset_id": 402115,
+        "img": "QmSj77EsbfNdYxwqPs2AkEwiQ1sXnjTqSvNP7h9wfeKDC3",
+        "Stone": 0,
+        "Wood": 540,
+        "Gold": -27,
+        "Food": -54
+      },
+      "5": {
+        "asset_id": 402117,
+        "img": "Qma4CzpeCdMXmVtJhEhTQQk6MtqYogjx4X996hnkFSyK5V",
+        "Stone": 0,
+        "Wood": 1620,
+        "Gold": -81,
+        "Food": -162
+      },
+      "6": {
+        "asset_id": 402121,
+        "img": "QmRDc1PihRatGnQ7brh3rujE1gb2rQtnivrTmQqodKorXc",
+        "Stone": 0,
+        "Wood": 4860,
+        "Gold": -243,
+        "Food": -486
+      }
+    },
+    "Rare": {
+      "1": {
+        "asset_id": 402123,
+        "img": "QmbfmDdYrSmiLmwbG5u3Jx5cUhHZs4LYiYy7URCtHzz6f5",
+        "Stone": 0,
+        "Wood": 20,
+        "Gold": -1,
+        "Food": -1
+      },
+      "2": {
+        "asset_id": 402125,
+        "img": "QmcjB8D82M56WLq7m69vJx7NUfA6cG28zaSccZoJG6hiry",
+        "Stone": 0,
+        "Wood": 60,
+        "Gold": -3,
+        "Food": -3
+      },
+      "3": {
+        "asset_id": 402126,
+        "img": "QmYk8a8zj1WpQX9H1we9HbuiJuqVU3L6w9DVBMB4mVTN1w",
+        "Stone": 0,
+        "Wood": 180,
+        "Gold": -9,
+        "Food": -9
+      },
+      "4": {
+        "asset_id": 402129,
+        "img": "QmRLqE5VBJgnPAGy4S3NDSCRxhnT8U2kynBvb6ZSFTXBvi",
+        "Stone": 0,
+        "Wood": 540,
+        "Gold": -27,
+        "Food": -27
+      },
+      "5": {
+        "asset_id": 402131,
+        "img": "QmX5m7VBt3yy8LjcTdHRYo38wCtLdNHDBxLPq7Q7wTnFMS",
+        "Stone": 0,
+        "Wood": 1620,
+        "Gold": -81,
+        "Food": -81
+      },
+      "6": {
+        "asset_id": 402132,
+        "img": "QmUUa666YspekFSy9faCV7MZyNX2urNtwoxuHNt9vZ9jBy",
+        "Stone": 0,
+        "Wood": 4860,
+        "Gold": -243,
+        "Food": -243
+      }
+    },
+    "Epic": {
+      "1": {
+        "asset_id": 408983,
+        "img": "QmTCjjpFekyAX6guQKSxkQSCBnzoHo62FvBtHF5YygHQEZ",
+        "Stone": 0,
+        "Wood": 20,
+        "Gold": 0,
+        "Food": 0
+      },
+      "2": {
+        "asset_id": 408984,
+        "img": "QmUKCEU1hpju9Qr9pGocx3GTpDgak3qjaYTFBCogUu45ZE",
+        "Stone": 0,
+        "Wood": 60,
+        "Gold": 0,
+        "Food": 0
+      },
+      "3": {
+        "asset_id": 408985,
+        "img": "QmUwjDuhz5KPrrYNxNzh9wZLZCBQWPeY356kRk6iZ4c4gY",
+        "Stone": 0,
+        "Wood": 180,
+        "Gold": 0,
+        "Food": 0
+      },
+      "4": {
+        "asset_id": 408987,
+        "img": "QmcM8xikVtpS7Yq4ZD76zU5fwHACpGGFGNAWPgQ65BMo75",
+        "Stone": 0,
+        "Wood": 540,
+        "Gold": 0,
+        "Food": 0
+      },
+      "5": {
+        "asset_id": 408988,
+        "img": "QmfNCsEgyBTDL6RTHzqsvZc83ZWrDqddzQ1JDLMQXiHqpG",
+        "Stone": 0,
+        "Wood": 1620,
+        "Gold": 0,
+        "Food": 0
+      },
+      "6": {
+        "asset_id": 408989,
+        "img": "QmVqe2A8yzKbWQYRKieMEAvN3DUyvn21L7NeK95oBqFhbD",
+        "Stone": 0,
+        "Wood": 4860,
+        "Gold": 0,
+        "Food": 0
+      }
+    }
+  }
+}
