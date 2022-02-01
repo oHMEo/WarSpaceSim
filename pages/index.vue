@@ -60,6 +60,7 @@ export default {
       return this.$store.state.foodqty;
     },
   },
+
   methods: {
     async click() {
       console.log(this.$store.state.Food[1]);
